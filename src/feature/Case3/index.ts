@@ -1,1 +1,1 @@
-export * from "./CaseThree";
+export { CaseThreeParent as CaseThree } from "./Parent";
